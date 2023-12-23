@@ -1,0 +1,2 @@
+# discriminant_analysis
+判別分析のPythonライブラリ
